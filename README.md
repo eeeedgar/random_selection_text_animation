@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-!["Demontration"](example/demo_gifs/01.gif)
+!["Demontration"](https://github.com/eeeedgar/random_selection_text_animation/blob/main/example/demo_gifs/01.gif)
 
 ### Configurable fields
 
