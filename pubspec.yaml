@@ -1,7 +1,7 @@
 name: random_selection_text_animation
 description: Animation of random picking characters in a Text widget
 version: 1.0.0
-homepage:
+repository: https://github.com/eeeedgar/random_selection_text_animation
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
